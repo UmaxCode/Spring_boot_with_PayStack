@@ -1,1 +1,1 @@
-# Spring boot with Stripe
+# Spring boot with PayStack
